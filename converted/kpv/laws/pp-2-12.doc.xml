@@ -1,39 +1,14 @@
-<document xml:lang="kpv" id="no_id">
-  <header>
-    <title> 
+<document xml:lang="kpv" id="no_id"><header><title> 
 Untitled
-</title>
-    <genre code="laws"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="rus"/>
-    <wordcount>97</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <parallel_text xml:lang="rus" location="pp-2-12.doc"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="udm"><em type="bold">КОМИ РЕСПУБЛИКАСА ВЕСЬКӦДЛАН КОТЫРЛӦН ШУÖМ </em></p>
-    <p xml:lang="koi"><em type="bold">Сыктывдін </em><em type="bold">районса </em><em type="bold">Ыб </em><em type="bold">сикт </em><em type="bold"></em><em type="bold">мутас </em><em type="bold">лӧн </em><em type="bold"></em><em type="bold">административнӧй </em><em type="bold">мудоръясын </em><em type="bold">да сы </em><em type="bold">ув </em><em type="bold">му </em><em type="bold">тас </em><em type="bold">ын </em><em type="bold">картупельлӧн зӧлӧтистӧй нематода </em><em type="bold">кузя </em><em type="bold"></em></p>
-    <p><em type="bold">карантин индӧм йылысь </em><em type="bold"></em></p>
-    <p><span type="quote">«Быдмöгъяслöн карантин йылысь»</span> Федеральнöй оланпаслöн 6 статья серти Коми Республикаса Веськӧдлан котыр шуис:</p>
-    <p xml:lang="koi">1. Индыны Сыктывдін районса Ыб сикт мутаслӧн административнӧй мудоръясын да сы ув мутасын картупельлӧн зӧлӧтистӧй нематода серти карантин (Globodera rostochiensis (Woll.) Behrens.).</p>
-    <p>2. Вӧзйыны <span type="quote" xml:lang="koi">«Сыктывдін»</span> муниципальнӧй районса меставывса асвеськöдлан органъяслы нуöдны карантиннöй объектъясын удж нуöдöм кузя мероприятиеяс законодательство серти.</p>
-    <p xml:lang="koi">Коми Республикаса Юралысь В. Гайзер</p>
-    <p xml:lang="koi">Сыктывкар</p>
-    <p xml:lang="koi">2012 вося тӧвшӧр тöлысь 12 лун</p>
-    <p xml:lang="mdf">2 №</p>
-    <p xml:lang="koi">Н.Н. Воробьева - 646 пас</p>
-  </body>
-</document>
+</title><genre code="laws"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="rus"/><wordcount>97</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><parallel_text xml:lang="rus" location="pp-2-12.doc"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="udm"><em type="bold">КОМИ РЕСПУБЛИКАСА ВЕСЬКӦДЛАН КОТЫРЛӦН ШУÖМ </em></p>
+<p xml:lang="koi"><em type="bold">Сыктывдін </em><em type="bold">районса </em><em type="bold">Ыб </em><em type="bold">сикт </em><em type="bold"></em><em type="bold">мутас </em><em type="bold">лӧн </em><em type="bold"></em><em type="bold">административнӧй </em><em type="bold">мудоръясын </em><em type="bold">да сы </em><em type="bold">ув </em><em type="bold">му </em><em type="bold">тас </em><em type="bold">ын </em><em type="bold">картупельлӧн зӧлӧтистӧй нематода </em><em type="bold">кузя </em><em type="bold"></em></p>
+<p><em type="bold">карантин индӧм йылысь </em><em type="bold"></em></p>
+<p xml:lang="koi"><span type="quote">«Быдмöгъяслöн карантин йылысь»</span> Федеральнöй оланпаслöн 6 статья серти Коми Республикаса Веськӧдлан котыр шуис:</p>
+<p xml:lang="koi">1. Индыны Сыктывдін районса Ыб сикт мутаслӧн административнӧй мудоръясын да сы ув мутасын картупельлӧн зӧлӧтистӧй нематода серти карантин (Globodera rostochiensis (Woll.) Behrens.).</p>
+<p>2. Вӧзйыны <span type="quote" xml:lang="koi">«Сыктывдін»</span> муниципальнӧй районса меставывса асвеськöдлан органъяслы нуöдны карантиннöй объектъясын удж нуöдöм кузя мероприятиеяс законодательство серти.</p>
+<p xml:lang="koi">Коми Республикаса Юралысь В. Гайзер</p>
+<p xml:lang="koi">Сыктывкар</p>
+<p xml:lang="koi">2012 вося тӧвшӧр тöлысь 12 лун</p>
+<p xml:lang="mdf">2 №</p>
+<p xml:lang="koi">Н.Н. Воробьева - 646 пас</p>
+</body></document>
