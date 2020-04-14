@@ -1,41 +1,16 @@
-<document xml:lang="kpv" id="no_id">
-  <header>
-    <title> 
+<document xml:lang="kpv" id="no_id"><header><title> 
 КОМИ РЕСПУБЛИКАСА ВЕСЬКÖДЛАН КОТЫРЛÖН
-</title>
-    <genre code="laws"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="rus"/>
-    <wordcount>131</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <parallel_text xml:lang="rus" location="gs-v-3-28.doc"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="udm">КОМИ РЕСПУБЛИКАСА КАНАЛАН СÖВЕТЛÖН</p>
-    <p xml:lang="udm">ШУÖМ</p>
-    <p xml:lang="udm"><em type="bold">Мыжаöн чайтан да мыжалан йöзöс стража улын видзанiнъясö ветлыны уполномочитöм Коми Республикалöн Каналан Сöветса депутатъяс йылысь </em></p>
-    <p xml:lang="koi"><span type="quote" xml:lang="koi">«Коми Республикалöн Каналан Сöветса депутатлöн статус йылысь»</span> Коми Республикаса Оланпаслöн 15 1 статья вылö подуласьöмöн Коми Республикаса Каналан Сöвет шуис:</p>
-    <p xml:lang="koi">1. Коми Республика мутасын уголовно-исполнительнöй системаса следственнöй изоляторъясö, пытшкöс делöяс органъясысь мыжаöн чайтан да мыжалан йöзöс недыр кадколаст видзан изоляторъясö, а сiдзжö <span type="quote" xml:lang="udm">«Мыжъяс вöчöмын мыжаöн чайтан да мыжалан йöзöс стража улын видзöм йылысь»</span> Федеральнöй оланпаслöн 7 статья серти мыжаöн чайтан да мыжалан йöзöс стража улын мукöд видзанiнö торъя разрешениетöг контроль олöмö пöртöм могысь ветлöдлöм вылö уполномочитны Коми Республикалöн V бöръян Каналан Сöветса депутатъясöс.</p>
-    <p xml:lang="koi">2. Тайö Шуöмыс вынсялö сiйöс официальнöя йöзöдан лунсянь.</p>
-    <p xml:lang="koi">Коми Республиклöн</p>
-    <p xml:lang="koi">Каналан Сöветса</p>
-    <p xml:lang="udm">Веськöдлысь М.Д.Истиховская</p>
-    <p xml:lang="koi">Сыктывкар</p>
-    <p xml:lang="koi">2012 вося урасьöм тöлысь 16 лун</p>
-    <p xml:lang="vep">V-3/28 №</p>
-    <p xml:lang="mns">Игнатова Е.Н., … пас</p>
-  </body>
-</document>
+</title><genre code="laws"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="rus"/><wordcount>131</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><parallel_text xml:lang="rus" location="gs-v-3-28.doc"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="udm">КОМИ РЕСПУБЛИКАСА КАНАЛАН СÖВЕТЛÖН</p>
+<p xml:lang="udm">ШУÖМ</p>
+<p xml:lang="koi"><em type="bold">Мыжаöн чайтан да мыжалан йöзöс стража улын видзанiнъясö ветлыны уполномочитöм Коми Республикалöн Каналан Сöветса депутатъяс йылысь </em></p>
+<p><span type="quote" xml:lang="koi">«Коми Республикалöн Каналан Сöветса депутатлöн статус йылысь»</span> Коми Республикаса Оланпаслöн 15 1 статья вылö подуласьöмöн Коми Республикаса Каналан Сöвет шуис:</p>
+<p xml:lang="koi">1. Коми Республика мутасын уголовно-исполнительнöй системаса следственнöй изоляторъясö, пытшкöс делöяс органъясысь мыжаöн чайтан да мыжалан йöзöс недыр кадколаст видзан изоляторъясö, а сiдзжö <span type="quote" xml:lang="udm">«Мыжъяс вöчöмын мыжаöн чайтан да мыжалан йöзöс стража улын видзöм йылысь»</span> Федеральнöй оланпаслöн 7 статья серти мыжаöн чайтан да мыжалан йöзöс стража улын мукöд видзанiнö торъя разрешениетöг контроль олöмö пöртöм могысь ветлöдлöм вылö уполномочитны Коми Республикалöн V бöръян Каналан Сöветса депутатъясöс.</p>
+<p xml:lang="koi">2. Тайö Шуöмыс вынсялö сiйöс официальнöя йöзöдан лунсянь.</p>
+<p xml:lang="koi">Коми Республиклöн</p>
+<p xml:lang="koi">Каналан Сöветса</p>
+<p xml:lang="udm">Веськöдлысь М.Д.Истиховская</p>
+<p xml:lang="koi">Сыктывкар</p>
+<p xml:lang="koi">2012 вося урасьöм тöлысь 16 лун</p>
+<p xml:lang="vep">V-3/28 №</p>
+<p xml:lang="mns">Игнатова Е.Н., … пас</p>
+</body></document>
